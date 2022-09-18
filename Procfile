@@ -1,0 +1,1 @@
+web: gunicorn digitallotus.wsgi --log-file -
